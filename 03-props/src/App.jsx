@@ -8,7 +8,7 @@ const App = () => {
 
       <Card user="Ankit" />
 
-      <Card />
+      <Card user="Anushka" />
       
     </div>
   )
